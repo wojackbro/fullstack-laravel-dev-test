@@ -1,5 +1,7 @@
 # Laravel Full Stack Development Test
 
+**Developer:** [Abid Hossain](https://www.abidhossain.me)
+
 This project demonstrates a complete Laravel full-stack application with product crawling, asynchronous import, admin panel, and dynamic frontend.
 
 ## 🚀 Features
@@ -22,7 +24,7 @@ This project demonstrates a complete Laravel full-stack application with product
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/wojackbro/fullstack-laravel-dev-test.git
 cd fullstack-laravel-dev-test
 ```
 
@@ -282,11 +284,6 @@ Import products asynchronously.
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## 🆘 Support
 
 If you encounter any issues or have questions, please:
 1. Check the Laravel documentation
@@ -297,3 +294,8 @@ If you encounter any issues or have questions, please:
 ---
 
 **Note**: This project was created as part of a technical assessment and demonstrates various Laravel and modern web development concepts.
+
+**Developer Contact:**
+- **Name:** Abid Hossain
+- **Website:** [www.abidhossain.me](https://www.abidhossain.me)
+- **GitHub:** [@wojackbro](https://github.com/wojackbro)
