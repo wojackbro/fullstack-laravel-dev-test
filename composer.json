@@ -1,0 +1,16 @@
+{
+    "name": "laravel-dev-test/crawler",
+    "description": "Product crawler for Laravel dev test",
+    "type": "project",
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/dom-crawler": "^6.0",
+        "symfony/css-selector": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
